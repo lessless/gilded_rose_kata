@@ -1,4 +1,4 @@
-defmodule GildedRose.ReportTest do
+defmodule GildedRose.TextTest do
   use ExUnit.Case
 
   test "report" do
